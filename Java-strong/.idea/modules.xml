@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/day02-collection-map-stream/day02-collection-map-stream.iml" filepath="$PROJECT_DIR$/day02-collection-map-stream/day02-collection-map-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03-file-io/day03-file-io.iml" filepath="$PROJECT_DIR$/day03-file-io/day03-file-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04-thread/day04-thread.iml" filepath="$PROJECT_DIR$/day04-thread/day04-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-net/day05-net.iml" filepath="$PROJECT_DIR$/day05-net/day05-net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-junit-reflect-annotation-proxy/day06-junit-reflect-annotation-proxy.iml" filepath="$PROJECT_DIR$/day06-junit-reflect-annotation-proxy/day06-junit-reflect-annotation-proxy.iml" />
     </modules>
   </component>
 </project>
