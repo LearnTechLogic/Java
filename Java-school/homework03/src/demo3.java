@@ -11,6 +11,10 @@ public class demo3 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入日期 (格式为 yyyy-MM-dd)：");
         String inputDate = scanner.nextLine();
+        if (!inputDate.matches("\\d{4}-\\d{2}-\\d{2}")) {
+            System.out.println("输入的日期格式不正确");
+            return;
+        }
         LocalDate date = LocalDate.parse(inputDate);
         DayOfWeek dayOfWeek = date.getDayOfWeek();
 

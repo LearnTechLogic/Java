@@ -4,17 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b3f40d0-97ec-4377-8b8e-e39e5b3e7d59" name="更改" comment="" />
+    <list default="true" id="5b3f40d0-97ec-4377-8b8e-e39e5b3e7d59" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java-school/homework04/homework04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/class/class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/class/class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/experiment01/src/dengji.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/experiment01/src/dengji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/experiment01/src/jiecheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/experiment01/src/jiecheng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/experiment01/src/lingxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/experiment01/src/lingxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/homework3/homework3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/homework03/homework03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/homework3/src/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/homework03/src/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/homework3/src/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/homework03/src/demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/homework3/src/demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/homework03/src/demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/homework3/src/demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/homework03/src/demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/面向对象程序设计作业.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/面向对象程序设计作业.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c595910a-c8c3-4093-856a-7e1ce8af478e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c595910a-c8c3-4093-856a-7e1ce8af478e.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-学习/javaweb_project1/web-ai-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-学习/javaweb_project1/web-ai-project/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2uU2NWNfEfKfDOAnQbmZ3rF8JxY" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zhaoxinhang&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
 </project>

@@ -5,12 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0797dd3e-6e3e-47d6-aaad-da07ac40cbbd" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Java-strong/.idea/libraries/groovy_4_0_14__5_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java-strong/.idea/libraries/groovy_4_0_14__6_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java-strong/day05-net/day05-net.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Java-strong/day06-junit-reflect-annotation-proxy/day06-junit-reflect-annotation-proxy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java-strong/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-strong/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Java-strong/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-strong/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java-school/homework04/homework04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/class/class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/class/class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/experiment01/src/dengji.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/experiment01/src/dengji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/experiment01/src/jiecheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/experiment01/src/jiecheng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/experiment01/src/lingxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/experiment01/src/lingxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/homework3/homework3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/homework03/homework03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/homework3/src/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/homework03/src/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/homework3/src/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/homework03/src/demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/homework3/src/demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/homework03/src/demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/homework3/src/demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/homework03/src/demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-school/面向对象程序设计作业.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-school/面向对象程序设计作业.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-study/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-study/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-study/.idea/dataSources/c595910a-c8c3-4093-856a-7e1ce8af478e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-study/.idea/dataSources/c595910a-c8c3-4093-856a-7e1ce8af478e.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java-study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java-study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +45,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,6 +81,11 @@
       <updated>1741951228127</updated>
       <workItem from="1741951229233" duration="1022000" />
       <workItem from="1742014589887" duration="111000" />
+      <workItem from="1742288667208" duration="13000" />
+      <workItem from="1742358964666" duration="23000" />
+      <workItem from="1742362550998" duration="3000" />
+      <workItem from="1742365929568" duration="2000" />
+      <workItem from="1742620783034" duration="16000" />
     </task>
     <servers />
   </component>

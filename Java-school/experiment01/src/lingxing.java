@@ -5,40 +5,33 @@
  */
 import javax.swing.JOptionPane;
 
+
 public class lingxing {
     public static void main(String[] args) {
-        // 使用 JOptionPane 获取用户输入
-        String input = JOptionPane.showInputDialog("请输入要打印的菱形的高度：");
-        int n;
-        try {
-            n = Integer.parseInt(input);
-        } catch (NumberFormatException e) {
-            JOptionPane.showMessageDialog(null, "输入的不是有效的整数，请重新运行程序并输入一个整数。");
+        System.out.println("请输入菱形的边长：");
+        String input = JOptionPane.showInputDialog(null, "请输入菱形的边长：");
+        if (!input.matches("\\d+")||!input.matches("-?\\d*[13579]")) {
+            JOptionPane.showMessageDialog(null, "请输入一个奇数");
             return;
         }
-
-        // 打印上半部分
-        for (int i = 1; i <= n; i++) {
-            StringBuilder line = new StringBuilder();
-            for (int j = 1; j <= n - i; j++) {
-                line.append(" ");
+        int size = Integer.parseInt(input);
+        for(int i=1;i<=(size+1)/2;i++){
+            for(int j=0;j<=(size-1)/2-i;j++){
+                System.out.print(" ");
             }
-            for (int j = 1; j <= 2 * i - 1; j++) {
-                line.append("\u25C7");
+            for(int k=1;k<=i*2-1;k++){
+                System.out.print("\u002A");
             }
-            System.out.println(line.toString());
+            System.out.println();
         }
-
-        // 打印下半部分
-        for (int i = n - 1; i >= 1; i--) {
-            StringBuilder line = new StringBuilder();
-            for (int j = 1; j <= n - i; j++) {
-                line.append(" ");
+        for(int i=(size+1)/2-1;i>=1;i--){
+            for(int j=0;j<=(size-1)/2-i;j++){
+                System.out.print(" ");
             }
-            for (int j = 1; j <= 2 * i - 1; j++) {
-                line.append("\u25C7");
+            for(int k=1;k<=i*2-1;k++){
+                System.out.print("\u002A");
             }
-            System.out.println(line.toString());
+            System.out.println();
         }
     }
 }
