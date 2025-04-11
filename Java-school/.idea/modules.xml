@@ -5,10 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-school.iml" filepath="$PROJECT_DIR$/.idea/Java-school.iml" />
       <module fileurl="file://$PROJECT_DIR$/class/class.iml" filepath="$PROJECT_DIR$/class/class.iml" />
       <module fileurl="file://$PROJECT_DIR$/experiment01/experiment01.iml" filepath="$PROJECT_DIR$/experiment01/experiment01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/experiment02/experiment02.iml" filepath="$PROJECT_DIR$/experiment02/experiment02.iml" />
       <module fileurl="file://$PROJECT_DIR$/homework01/homework01.iml" filepath="$PROJECT_DIR$/homework01/homework01.iml" />
       <module fileurl="file://$PROJECT_DIR$/homework02/homework02.iml" filepath="$PROJECT_DIR$/homework02/homework02.iml" />
       <module fileurl="file://$PROJECT_DIR$/homework03/homework03.iml" filepath="$PROJECT_DIR$/homework03/homework03.iml" />
       <module fileurl="file://$PROJECT_DIR$/homework04/homework04.iml" filepath="$PROJECT_DIR$/homework04/homework04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>

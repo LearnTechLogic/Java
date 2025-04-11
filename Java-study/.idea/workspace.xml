@@ -5,22 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b3f40d0-97ec-4377-8b8e-e39e5b3e7d59" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java-school/homework04/homework04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-school/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-school/experiment02/experiment02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-school/test/src/demo2/a3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-school/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-school/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-school/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-school/class/class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/class/class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-school/experiment01/src/dengji.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/experiment01/src/dengji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-school/experiment01/src/jiecheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/experiment01/src/jiecheng.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-school/experiment01/src/lingxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/experiment01/src/lingxing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-school/homework3/homework3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/homework03/homework03.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-school/homework3/src/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/homework03/src/demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-school/homework3/src/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/homework03/src/demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-school/homework3/src/demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/homework03/src/demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-school/homework3/src/demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/homework03/src/demo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-school/面向对象程序设计作业.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-school/面向对象程序设计作业.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/c595910a-c8c3-4093-856a-7e1ce8af478e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c595910a-c8c3-4093-856a-7e1ce8af478e.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-学习/javaweb_project1/web-ai-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-学习/javaweb_project1/web-ai-project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +27,18 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2uU2NWNfEfKfDOAnQbmZ3rF8JxY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/zhaoxinhang&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zhaoxinhang&quot;,
+    &quot;数据库脚本.db.sql.executor&quot;: &quot;Run&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
@@ -47,5 +46,13 @@
     ]
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="db.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$USER_HOME$/Desktop/javaweb/JAVA毕业设计项目成品源码/01-92套-21-SpringBoot/springboot005学生心理咨询评估系统/db.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="c595910a-c8c3-4093-856a-7e1ce8af478e" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
 </project>
